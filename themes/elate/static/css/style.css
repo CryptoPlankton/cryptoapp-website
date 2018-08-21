@@ -23,7 +23,8 @@ body {
 
 a {
     font-weight: 400;
-    color: #333;
+    color: #0c78ca;
+    text-decoration: none;
 }
 
 body {
@@ -548,7 +549,7 @@ textarea{
     height:30px;
     background-repeat:no-repeat;
     background-size:auto 30px;
-    margin-right:8px
+    margin-right:12px
 }
 .button.app-store::before{
     background-image:url(../images/apple-icon.svg)
@@ -863,7 +864,7 @@ textarea{
         margin-right:16px
     }
     .about-cash .cta .button{
-        width:200px
+        width:auto;
     }
 }
 @media (min-width:1200px){
