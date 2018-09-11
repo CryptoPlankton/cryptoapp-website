@@ -40,6 +40,10 @@ p {
     height: 49px;
 }
 
+.header a {
+    z-index: 2000;
+}
+
 .headerMid {
     width: 360px;
     display: flex;
