@@ -22,6 +22,12 @@ a {
 }
 
 
+p {
+    margin-bottom: 1.2em;
+    opacity: 0.85;
+}
+
+
 .header {
     max-width: 1120px;
     justify-content: space-between;
@@ -57,7 +63,7 @@ a {
 .downloadButton {
     border: 1px solid #E2E2E2;
     padding: 12px 31px 11px;
-    border-radius: 75px;
+    border-radius: 5px;
 }
 
 
@@ -70,17 +76,27 @@ a {
     text-align: center;
 }
 
+.content section {
+    margin-top: 130px;
+}
+
 .cryptoapp {
         display: block;
-    width: 933px;
+    width: 398px;
     height: auto;
     margin: 0 auto;
     margin-bottom: 60px;
 }
 
+.tapandpay {
+    width: 251px;
+    position: relative;
+    left: -3%;
+}
+
 
 input[type=text] {
-    border: 1px solid #e2e2e2;
+        border: 1px solid #e2e2e2;
     border-radius: 4px;
     display: block;
     font-size: 17px;
@@ -89,7 +105,7 @@ input[type=text] {
     padding: 22px 17px;
     width: 383px;
     margin: 0 auto;
-    margin-top: 33px;
+    margin-top: 23px;
     text-align: center;
 }
 
