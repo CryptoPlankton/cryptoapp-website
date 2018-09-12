@@ -19,8 +19,5 @@ draft: false
     <p>You can also make 'Tap & Go' style card payments without your phone.</p>
     <img class="rfidcard" src="../images/rfidcard.png">
     </section>
-    <section>
-    <p>Now you can continue life and use a familiar payment system like nothing has changed.</p>
-   
-    </section>
+    
 </div>
