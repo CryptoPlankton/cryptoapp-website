@@ -6,12 +6,12 @@ draft: false
 
 <div class="content">
     <section>
-    <p>Your coins are kept on the box in safe place while you control it with your phone.</p>
+    <p>Your coins are kept on the box in safe place, while you control it with your phone.</p>
     <img class="cryptoboxsend" src="../images/cryptoboxsend.png">
     </section>
     
     <section style="margin-bottom: 150px;">
-    <p>You have an address for all your coins, like a phone mumber it never changes:</p>
+    <p>You have an address for all your coins, like a phone number it never changes:</p>
     <input type="text" class="deposit_addr deposit_addr_big" id="eur_Deposit_ref" value="ln1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8" readonly="readonly">
     </section>
     <section>

@@ -23,4 +23,9 @@ draft: false
     <img class="rfidcard" src="../images/rfidcard.png">
    
     </section>
+    <section>
+    <p>Step 4: 3D print a case (optional)</p>
+    <img class="rfidcard" src="../images/rfidcard.png">
+   
+    </section>
 </div>
