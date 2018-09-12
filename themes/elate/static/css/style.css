@@ -101,6 +101,15 @@ p {
     left: -3%;
 }
 
+.cryptoboxsend {
+    width: 467px;
+    height: auto;
+}
+
+.rfidcard {
+    width: 271px;
+}
+
 
 input[type=text] {
         border: 1px solid #e2e2e2;
