@@ -7,8 +7,8 @@ draft: false
 
 <div class="content">
     <section>
-    <p>You can accept Crypto payments in-store</p>
-    <img class="cryptoboxsend" src="../images/cryptoboxsend.png">
+    <p>You can accept Crypto payments in-store. Just like normal card payments.</p>
+    <img class="tapandpay" src="../images/tapandpay.png">
     </section>
     
     <section style="margin-bottom: 150px;">
@@ -21,6 +21,6 @@ draft: false
     </section>
     <section>
     <p>Now you can continue life and use a familiar payment system like nothing has changed.</p>
-    <img class="tapandpay" src="../images/tapandpay.png">
+   
     </section>
 </div>
