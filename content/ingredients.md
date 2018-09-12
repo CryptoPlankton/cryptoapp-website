@@ -6,7 +6,7 @@ draft: false
 
 <div class="content">
     <section>
-    <p>Every part to this system is widely available, and can be assembled by the user.</p>
+    <p>Every part to this system is widely available, and can be assembled by the user. This decentralizes the production process.</p>
     <img class="cryptoecosystem" src="../images/cryptoecosystem.png">
     </section>
     

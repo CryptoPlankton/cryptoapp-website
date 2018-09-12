@@ -1,6 +1,6 @@
-baseURL = "https://litlightning.org/"
+baseURL = "https://crypto.app"
 DefaultContentLanguage = "en"
-title = "lit"
+title = "Crypto App"
 theme = "elate"
 
 
