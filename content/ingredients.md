@@ -12,7 +12,8 @@ draft: false
     
     <section style="margin-bottom: 150px;">
     <p>Step 1: Download the app</p>
-    <input type="text" class="deposit_addr deposit_addr_big" id="eur_Deposit_ref" value="ln1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8" readonly="readonly">
+    <a class="button app-store" href="" target="_blank" rel="noopener noreferrer" aria-label="Download Crypto App on the App Store">App Store</a>
+    <a class="button play-store" href="" target="_blank" rel="noopener noreferrer" aria-label="Download Crypto App on Google Play">Google Play</a>
     </section>
     <section>
     <p>Step 2: Buy or Create Crypto Box</p>

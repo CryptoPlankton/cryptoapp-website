@@ -67,10 +67,42 @@ p {
     padding: 15px 0px;
 }
 
-.downloadButton {
+.button {
     border: 1px solid #E2E2E2;
     padding: 12px 31px 11px;
     border-radius: 5px;
+}
+
+
+.button.app-store::before, .button.play-store::before {
+    content: "";
+    min-width: 30px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-size: auto 30px;
+    margin-right: 8px;
+}
+
+.button.app-store::before {
+    background-image: url(../images/apple-icon.svg);
+}
+
+.button.play-store::before {
+    background-image: url(../images/google-play-icon.svg);
+}
+
+.app-store {
+    position: relative;
+    display: inline-flex;
+    line-height: 33px;
+    padding: 12px 31px 12px 28px;
+}
+
+.play-store {
+    position: relative;
+    display: inline-flex;
+    line-height: 32px;
+    padding: 12px 31px 12px 28px;
 }
 
 
