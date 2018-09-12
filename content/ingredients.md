@@ -6,8 +6,8 @@ draft: false
 
 <div class="content">
     <section>
-    <p>Your coins are kept on the box in safe place while you control it with your phone.</p>
-    <img class="cryptoboxsend" src="../images/cryptoboxsend.png">
+    <p>Every part to this system is widely available, and can be assembled by the user.</p>
+    <img class="cryptoecosystem" src="../images/cryptoecosystem.png">
     </section>
     
     <section style="margin-bottom: 150px;">

@@ -106,6 +106,13 @@ p {
     height: auto;
 }
 
+.cryptoecosystem {
+    width: 401px;
+    height: auto;
+    left: -3px;
+    position: relative;
+}
+
 .rfidcard {
     width: 271px;
 }
