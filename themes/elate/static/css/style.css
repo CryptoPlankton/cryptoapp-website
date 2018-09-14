@@ -38,6 +38,7 @@ p {
     display: flex;
     margin-top: 62px;
     height: 49px;
+    padding: 0px 25px;
 }
 
 .header a {
@@ -60,8 +61,14 @@ p {
     position: absolute;
     width: 100%;
     height: 49px;
+    display: block;
 }
 
+@media screen and (max-width: 768px) {
+    .headerMidCenter {
+        display: none;
+    }
+}
 
 .headerMid a {
     padding: 15px 0px;
